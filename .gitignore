@@ -1,0 +1,6 @@
+# ignore folder Debug
+Debug/
+
+# ignore folder Release
+Release/
+
